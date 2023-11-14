@@ -34,6 +34,12 @@ function openSIndex() {
 function showLOG() {
  window.open("sindex.html", "_blank");
 }
+function go_to_sign() {
+ window.open("singin.html", "_blank");
+}
+function go_to_log() {
+ window.open("singup.html", "_blank");
+}
 
 
 
