@@ -228,6 +228,28 @@ body {
     border: 2px solid var(--secondary-color-gray1);
     color: var(--primary-color1);
   }
+.primery_small {
+  background: var(--primary-color1);
+  font-family: Gilroy;
+  width: 196px;
+  padding: 0;
+  height: 38px;
+  color: #FFF;
+  border-radius: 50px;
+  border:none;
+}
+
+.text_button_primery_small {
+  background-color: unset;
+  font-family: Gilroy;
+  width: 196px;
+  padding: 0;
+  height: 38px;
+  color: var(--primary-color1);
+  border-radius: 50px;
+  border:none;
+  outline:none;
+}
 
   .button_align {
     display: inline-flex;
