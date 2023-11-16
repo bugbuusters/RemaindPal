@@ -19,7 +19,12 @@ A special and all-purpose reminder and an assistant for you in doing your charac
 A friend that you can always have and does not take up a lot of your phone.
 Our team hopes that RemaindPal will be a good friend for you.
 
+#Figma
+https://www.figma.com/file/awMWTajxNi1K4ocoq1STGq/Remindpal?type=design&node-id=0%3A1&mode=design&t=e3i2g7Y6yOh4A8oM-1
 
+
+#Trello
+https://trello.com/b/d2Dt5XVh
 
 
 
