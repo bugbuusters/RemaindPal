@@ -34,10 +34,10 @@ function openSIndex() {
 function showLOG() {
  window.open("sindex.html", "_blank");
 }
-function go_to_sign() {
+function gotosign() {
  window.open("singin.html", "_blank");
 }
-function go_to_log() {
+function gotolog() {
  window.open("singup.html", "_blank");
 }
 
